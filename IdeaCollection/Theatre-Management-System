@@ -1,1 +1,43 @@
+An interaction with the person working with an organisation who handles tickets for evening shows everyday manually . This interaction
+explains all the loop holes they encounter while doing this manually . 
+
+About the organisation 
+XYZ[Just for privacy reasons have kept the name of the organisation confidential] is an organisation in City Working to preserve the culture of various states . They perform a show of some shows and plays every evening and also prior to the performance of plays there is time for the opening of museum . They are working on evolving arts . They have wonderful artists . 
+
+Every day various national and international tourists visit this place and  watch evening shows . 
+
+Now they ask people to book tickets for this show . And this ticket booking system is being handled manually . 
+
+So the criteria of booking tickets . There is a person who sits on ticket booking seat and he uses handmade diary tickets asks people how much tickets they want and book the tickets . 
+
+Now the type of tickets are ----> 
+
+Combo ticket  = Museum + Theatre  = 110 rs 
+1 person theatre ticket = 80 
+1 concession ticket = 40 
+1 photo camera ticket = 20 
+1 video camera ticket = 50 
+
+The rates of these shows varies when they are more people . 
+Also in the theatre show there are only 553 seats and each person is alloted a seat number . 
+
+Now because of the manual procedure there are various problems are → 
+→ Two or three persons are alloted same seat numbers . 
+
+→ Confused during booking when multiple order roles in .  That means 4 adult 3 kids 1 camera . Mistakes in calculating finances and some times people end up paying from their pockets . Also there is a clear possibility that some people even end up making more . 
+
+→ Calculating how much change to give . 
+
+→ If two family persons are visiting they need to book their seats then they need to be alloted the seats close by one another . NOw if 69 and 70 is in the next row . It needs to be taken care of .  
+
+→ When it is overcrowded no methodology to find ki seats are full . Some audience return back . 
+
+Solution : - 
+
+A theatre design model which would work on the concept of virtual tours . That is I am a software developer by profession and I want to organise a play with my peer group who have theatre as a hobby . We are selling our tickets at a high price . Also depending on where you plan to sit in the theatre we have different rates . Many times people book the seats by just checking the rates but this compromises which the user experince when actually siting in the theatre . The position is not correct . 
+
+So to not comprimise with the user experience . We will give you the virtual tour of the theatre and plan and book the tickets during virtual to have a glimpse of which position will be the right fit for you to watch the show . Examples include suppose you want to use laptop while watching show , virtual tour will help you figure out the location which has socket close by to charge laptop . Just a usecase . 
+.
+
+Also booking of tickets and finances monitoring will take place online so no last minute rush and no issues . 
 
